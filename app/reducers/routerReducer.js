@@ -1,6 +1,6 @@
 import types from '../constants/routerActionTypes';
 import { Record, List } from 'immutable';
-import Parse from 'parse';
+import Parse from 'parse/react-native';
 import Home from '../containers/Home';
 
 const InitialState = Record({

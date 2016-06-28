@@ -1,6 +1,6 @@
 import * as types from '../constants/deviceActionTypes';
 import { Record, List } from 'immutable';
-import Parse from 'parse';
+import Parse from 'parse/react-native';
 
 const InitialState = Record({
   state: null,

@@ -1,5 +1,5 @@
 import React, { Component, AsyncStorage, StyleSheet, View, Text } from 'react-native';
-import Parse from 'parse';
+import Parse from 'parse/react-native';
 import { setPlatform } from './actions/deviceActions';
 import { setVersion } from './actions/appActions';
 import AppConfig from './constants/AppConfig';

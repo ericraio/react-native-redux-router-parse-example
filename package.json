@@ -6,6 +6,7 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "eventemitter": "^0.3.3",
     "immutable": "^3.7.6",
     "keymirror": "^0.1.1",
     "parse": "^1.8.1",
@@ -15,7 +16,7 @@
     "react-redux": "^4.4.1",
     "redux": "^3.3.1",
     "redux-persist": "^2.0.1",
-    "redux-persist-immutable": "git+https://github.com/corbt/redux-persist-immutable#immutable-records",
+    "redux-persist-immutable": "^1.0.5",
     "redux-thunk": "^2.0.1"
   }
 }
