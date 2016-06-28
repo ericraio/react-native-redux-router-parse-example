@@ -6,7 +6,6 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "eventemitter": "^0.3.3",
     "immutable": "^3.7.6",
     "keymirror": "^0.1.1",
     "parse": "^1.8.1",
